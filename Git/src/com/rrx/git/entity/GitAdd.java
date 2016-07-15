@@ -5,5 +5,7 @@ public class GitAdd {
 		System.out.println();
 	}
 	private String name;
+	
+	private int a;
 
 }
