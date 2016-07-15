@@ -5,4 +5,8 @@ public class GitTest {
 	private void mian() {
 
 	}
+
+	public static void main(String[] args){
+	
+	}
 }
