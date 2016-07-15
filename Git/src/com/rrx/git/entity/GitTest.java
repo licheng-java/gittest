@@ -6,7 +6,7 @@ public class GitTest {
 		int a= 0;
 	}
 
-	public void addTest(){}
+	public void addTest1(){}
 	
 	public static void main(String[] args){
 		int b = 0;	
