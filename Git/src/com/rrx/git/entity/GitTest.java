@@ -7,4 +7,8 @@ public class GitTest {
 	}
 
 	public void addTest(){}
+	
+	public static void main(String[] args){
+	
+	}
 }
