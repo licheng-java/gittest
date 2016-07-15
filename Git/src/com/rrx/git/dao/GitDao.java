@@ -4,4 +4,11 @@ public class GitDao {
 	
 	public void abcd(){}
 
+	public static void main(String[] args) {
+		
+	}
+	
+	public void say(){
+		
+	}
 }
