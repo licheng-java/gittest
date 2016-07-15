@@ -3,6 +3,8 @@ package com.rrx.git.entity;
 public class GitTest {
 
 	private int a;
+
+	private String name;
 	
 	private void mian() {
 		int a= 0;
