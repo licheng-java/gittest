@@ -9,6 +9,7 @@ public class GitDao {
 	}
 	
 	public void say(){
-		
+		int a;
+		int b;
 	}
 }
