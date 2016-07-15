@@ -2,6 +2,8 @@ package com.rrx.git.entity;
 
 public class GitTest {
 
+	private int a;
+	
 	private void mian() {
 		int a= 0;
 	}
@@ -13,4 +15,6 @@ public class GitTest {
 		int a = 0;	
 	}
 	public static void addTest(){}
+	
+	
 }
