@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 qwer
+=======
+abcd
+abcd
+>>>>>>> dev
